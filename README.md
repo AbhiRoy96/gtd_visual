@@ -24,4 +24,8 @@ We have Used R for sanitization of the data.
 
 ## Authors
 Abhishek Roy
-Would love to here from you! -> [mailto](royabhishek967@gmail.com).
+Would love to here from you! -> [Get In Touch](mailto:royabhishek967@gmail.com).
+
+
+## License
+GNU General Public License v3.0
