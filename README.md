@@ -12,10 +12,12 @@ University of Maryland, College Park, MD 20740, USA 301.405.6600
 ## The Data Processing
 We have Used R for sanitization of the data.
 > In this Visualization Project we have used data between 2014-2017
+![alt text](https://raw.githubusercontent.com/AbhiRoy96/gtd_visual/master/TA_Cities%20bubble%20map.jpg)
 
 
 ###### Phase 1: Terrorism Based On Cities.
 > We have used Bubble Map Chart for this visualization
+![alt text](https://raw.githubusercontent.com/AbhiRoy96/gtd_visual/master/TA_Countries%20choropleth%20map.jpeg)
 
 
 ###### Phase 2: Terrorism Based On Counties.
