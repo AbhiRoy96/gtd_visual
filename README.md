@@ -27,8 +27,7 @@ We have Used R for sanitization of the data.
 
 
 ## Authors
-Abhishek Roy
-Would love to here from you! -> [Get In Touch](mailto:royabhishek967@gmail.com).
+Abhishek Roy | Would love to here from you! -> [Get In Touch](mailto:royabhishek967@gmail.com).
 
 
 ## License

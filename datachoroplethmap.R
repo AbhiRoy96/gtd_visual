@@ -81,11 +81,3 @@ leaflet() %>%
             position = "bottomleft", 
             title = "Terror Attacks<br />2014 - 2017")
 
-
- 
-
-
-
-
-
-

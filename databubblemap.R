@@ -5,7 +5,7 @@ library(viridis)
 
 
 # add the csv
-gtdData <- read.csv("C:/Users/dell/Desktop/eventsGTD.csv")
+gtdData <- read.csv("C:/Users/dell/Desktop/eventsGTDCities.csv")
 dim(gtdData)
 
 # reverse the order of names as the csv contains the names in decending order
