@@ -1,4 +1,4 @@
-# GTD - Data Visualiztion - for the most Terrorist/Riots across the globe between 2014-2017
+# GTD - Data Visualiztion - for the most Terrorist/Riot Events across the globe between 2014-2017
 
 ## Data Acquisition
 The Global Terrorism Database (GTD) is an open-source database including information on terrorist events around the world from 1970 through 2017 (with annual updates planned for the future). Unlike many other event databases, the GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 cases.
@@ -27,7 +27,7 @@ We have Used R for sanitization of the data.
 
 
 ## Authors
-Abhishek Roy | Would love to here from you! -> [Get In Touch](mailto:royabhishek967@gmail.com).
+Abhishek Roy. Would love to here from you! -> [Get In Touch](mailto:royabhishek967@gmail.com).
 
 
 ## License
